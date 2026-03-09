@@ -57,7 +57,6 @@ Netflix-EDA/
 ├── netflix_analysis.ipynb
 ├── netflix_titles.csv
 ├── README.md
-└── images/
 ```
 
 ## Conclusion
